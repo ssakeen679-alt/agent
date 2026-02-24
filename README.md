@@ -13,7 +13,7 @@ URLS:
 ------------------------
 =====================
 
-===RAW URLS(FILES)===
+===RAW URLS(FILES)=== OUTDATED!!!!!!!
 
 LocalScripts_1: https://raw.githubusercontent.com/ssakeen679-alt/agent/refs/heads/main/SCRIPT_ARCHIVE/LocalScripts/LocalScripts_1.legacy.luau
 
